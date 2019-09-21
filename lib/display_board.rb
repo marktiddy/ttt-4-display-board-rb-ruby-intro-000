@@ -4,6 +4,6 @@ board = [" "," "," "," "," "," "," "," "," "]
 
 def display_board(board)
   puts "#{board[3]} | #{board[0]} | #{board[2]}"
-entered
+end
 
 display_board(board)
