@@ -3,7 +3,7 @@
 board = [" "," "," "," "," "," "," "," "," "]
 
 def display_board(board)
-  print board
+  puts "#{board[3]} | #{board[0]} | #{board[2]}"
 entered
 
 display_board(board)
